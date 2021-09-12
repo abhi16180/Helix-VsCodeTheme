@@ -2,12 +2,19 @@
     "name": "helix",
     "displayName": "helix",
     "description": "vscode dark theme",
-    "publisher": "Abhilash Hegde",
+    "publisher": "AbhilashHegde",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.60.0"
     },
-  
+  "author": {
+      "name": "Abhilash Hegde",
+      "email": "hegdeabhilash19@gmail.com"
+  },
+  "repository": {
+      "url": "https://github.com/abhi16180/Helix-VsCodeTheme",
+      "type": "git"
+  },
   
     "categories": [
         "Themes"
