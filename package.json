@@ -1,0 +1,21 @@
+{
+    "name": "helix",
+    "displayName": "helix",
+    "description": "vscode dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Helix:Vscode-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/HelixVscode-theme-color-theme.json"
+            }
+        ]
+    }
+}
