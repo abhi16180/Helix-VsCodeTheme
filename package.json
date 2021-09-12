@@ -3,10 +3,11 @@
     "displayName": "helix",
     "description": "vscode dark theme",
     "publisher": "AbhilashHegde",
-    "version": "0.0.2",
+    "version": "0.0.1",
     "engines": {
         "vscode": "^1.60.0"
     },
+    "icon":"icon/photo_2021-09-12_23-58-48.jpg",
   "author": {
       "name": "Abhilash Hegde",
       "email": "hegdeabhilash19@gmail.com"
