@@ -2,10 +2,12 @@
     "name": "helix",
     "displayName": "helix",
     "description": "vscode dark theme",
+    "publisher": "Abhilash Hegde",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.60.0"
     },
+    "icon": "nebula.png",
     "categories": [
         "Themes"
     ],
