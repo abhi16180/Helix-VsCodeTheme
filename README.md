@@ -2,6 +2,6 @@
 ## Beautiful vs-code dark theme
 
 
-![Screenshot](Code_RBhRoFaFOG.png)
+![Screenshot](code.png)
 
 
