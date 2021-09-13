@@ -14,11 +14,14 @@
 		"sideBar.foreground": "#ffffff", 
 		"sideBarSectionHeader.border": "#e9349d49",
 		"sideBarSectionHeader.background": "#161e2c59",
-		"menu.background":"#2c2e3d",
+		"menu.background":"#231c3a",
+		"menu.foreground": "#ffffff",
+		"menu.selectionBackground": "#66646581",
+		"menu.separatorBackground": "#a4a4a5",
 		"activityBar.dropBorder": "#ff0000",
-		"statusBar.background": "#56e4b4", 
+		"statusBar.background": "#4fb7e08c", 
 		"statusBar.foreground": "#000000",
-		"tab.activeBackground": "#3919834f",
+		"tab.activeBackground": "#8855ff4f",
 		"tab.inactiveBackground":  "#3919834f",
 	    "titleBar.activeBackground": "#07198349",
 		"titleBar.inactiveForeground": "#ffffffde",
@@ -29,6 +32,9 @@
 		"panel.background":"#0a165749", 
 		"panelSection.dropBackground":"#0a165749",
 		"gitDecoration.untrackedResourceForeground": "#dddddd",	
+		"welcomePage.background":"#1407294d", 
+		
+		
 			
 	},
 	"tokenColors": [
@@ -50,7 +56,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#ff0b91"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -80,7 +86,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#fa5959",
+				"foreground": "#ff905c",
 				"fontStyle": "italic"
 			}
 		},
